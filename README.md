@@ -1,3 +1,10 @@
+# Antowrten auf fragen:
+### Warum sind die von Ihnen formulierten Testfälle relevant?
+Ich versuche alles abzudecken egal ob es null return oder die richten werte.
+
+### Warum halten Sie die formulierten Testfälle für unterschiedlich?
+Weil jeder beim Schreiben bei den tests einen andren fokus hat und es forkommen kann das man was vergisst was dann ein anderer mitbedenkt.
+
 ---
 title: Student Support Code for 'Cat-Café' Task
 ---
